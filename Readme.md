@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/DocumentVariablesExample/Form1.cs) (VB: [Form1.vb](./VB/DocumentVariablesExample/Form1.vb))
+* [MyProgressIndicator.cs](./CS/DocumentVariablesExample/MyProgressIndicator.cs) (VB: [MyProgressIndicator.vb](./VB/DocumentVariablesExample/MyProgressIndicator.vb))
+* [Program.cs](./CS/DocumentVariablesExample/Program.cs) (VB: [Program.vb](./VB/DocumentVariablesExample/Program.vb))
+* [SampleData.cs](./CS/DocumentVariablesExample/SampleData.cs) (VB: [SampleData.vb](./VB/DocumentVariablesExample/SampleData.vb))
+* [Weather.cs](./CS/DocumentVariablesExample/Weather.cs) (VB: [Weather.vb](./VB/DocumentVariablesExample/Weather.vb))
+<!-- default file list end -->
 # How to use document variable (DOCVARIABLE) fields
 
 
